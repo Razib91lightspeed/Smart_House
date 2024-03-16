@@ -12,17 +12,17 @@ This application provides a user-friendly interface for controlling smart home d
 - Digital clock with smooth transitions for hours, minutes, and seconds
 
 # Screenshots
-![home](images/homepage.png)
-![car1](images/car1.png)
-![car2](images/car2.png)
-![Light1](images/Light1.png)
-![Light2](images/Light2.png)
-![Heat1](images/Heat1.png)
-![Heat2](images/Heat2.png)
-![Music1](images/Music1.png)
-![Music2](images/music2.png)
-![time](images/time.png)
-![weather](images/weather.png)
+![home](SmartHome/images/homepage.png)
+![car1](SmartHome/images/car1.png)
+![car2](SmartHome/images/car2.png)
+![Light1](SmartHome/images/Light1.png)
+![Light2](SmartHome/images/Light2.png)
+![Heat1](SmartHome/images/Heat1.png)
+![Heat2](SmartHome/images/Heat2.png)
+![Music1](SmartHome/images/Music1.png)
+![Music2](SmartHome/images/music2.png)
+![time](SmartHome/images/time.png)
+![weather](SmartHome/images/weather.png)
 
 
 
