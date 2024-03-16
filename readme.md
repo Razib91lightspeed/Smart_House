@@ -23,7 +23,15 @@ This application provides a user-friendly interface for controlling smart home d
 ![Music2](SmartHome/images/music2.png)
 ![time](SmartHome/images/time.png)
 ![weather](SmartHome/images/weather.png)
-
+![WD](SmartHome/images/WD.png)
+![WG](SmartHome/images/WG.png)
+![WL](SmartHome/images/WL.png)
+![WKUL](SmartHome/images/WKUL.png)
+![WLO](SmartHome/images/WLO.png)
+![WN](SmartHome/images/WN.png)
+![WS](SmartHome/images/WS.png)
+![WSH](SmartHome/images/WSH.png)
+![WT](SmartHome/images/WT.png)
 
 
 # Installation
